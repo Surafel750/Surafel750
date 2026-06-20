@@ -33,7 +33,7 @@
 ```json
 {
   "name"            : "Surafel",
-  "role"            : "Software Engineering Student",
+  "role"            : "Computer Science Student",
   "location"        : "Addis Ababa, Ethiopia 🇪🇹",
   "focus"           : ["Full-Stack Web Development", "Backend APIs", "Problem Solving"],
   "currently_building" : "Full-stack web applications",
@@ -102,7 +102,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Surafel750&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Surafel750&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
 </div>
 
 ---
