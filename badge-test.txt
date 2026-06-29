@@ -1,3 +1,4 @@
 // Test file for earning GitHub badges
 // Edit #1
 // Edit #2
+// Edit #3
