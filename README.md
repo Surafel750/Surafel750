@@ -7,11 +7,11 @@
 <br/>
 
 <div align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:surafelkassa253@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/Surafel750">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
@@ -19,11 +19,21 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
-  <a href="https://leetcode.com/YOUR_LEETCODE">
+  <a href="https://leetcode.com/Surafel750">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Surafel750&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLO"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/SHARK-000000?style=for-the-badge&logo=shark&logoColor=white" alt="Shark"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/COFFEE-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/FOLLOW-Surafel750-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/GITHUB-STREAK-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Streak"/>
 </div>
 
 ---
@@ -114,6 +124,14 @@
 | [**Portfolio Website**](https://github.com/Surafel750/portfolio-website) | Personal portfolio showcasing my work | React, Tailwind, Vercel | 🟢 Live |
 | [**Node REST API**](https://github.com/Surafel750/node-rest-api) | RESTful API with authentication & CRUD | Node.js, Express, MongoDB | 🟢 Active |
 | [**Python Automation**](https://github.com/Surafel750/python-projects) | Useful Python scripts & automation tools | Python | 🟡 Growing |
+| [**lumin-rest-api**](https://github.com/Surafel750/lumin-rest-api) | Production-ready Node.js REST API boilerplate | Node.js, Express, MongoDB | 🟢 Active |
+| [**taskflow-api**](https://github.com/Surafel750/taskflow-api) | Task manager REST API with JWT auth | Node.js, Express, MongoDB | 🟢 Active |
+| [**storefront-react**](https://github.com/Surafel750/storefront-react) | Full-stack MERN e-commerce store | React, Node.js, MongoDB, Stripe | 🟢 Active |
+| [**realworld-nestjs-app**](https://github.com/Surafel750/realworld-nestjs-app) | RealWorld example app with NestJS | NestJS, TypeORM, PostgreSQL | 🟢 Active |
+| [**django-ecommerce**](https://github.com/Surafel750/django-ecommerce) | Django e-commerce with Stripe payments | Django, PostgreSQL | 🟢 Active |
+| [**rediscord**](https://github.com/Surafel750/rediscord) | Discord UI remake with Next.js & Tailwind | Next.js, Tailwind, TypeScript | 🟢 Active |
+| [**jira_clone**](https://github.com/Surafel750/jira_clone) | Jira clone built with Vue & Node.js | Vue, Node.js, GraphQL | 🟢 Active |
+| [**server-components-demo**](https://github.com/Surafel750/server-components-demo) | React Server Components demo | React, Next.js | 🟢 Active |
 
 ---
 
