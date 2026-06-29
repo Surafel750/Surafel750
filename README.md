@@ -22,18 +22,26 @@
   <a href="https://leetcode.com/Surafel750">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Surafel750&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLO"/>
+  <img src="https://komarev.com/ghpvc/?username=Surafel750&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/SHARK-000000?style=for-the-badge&logo=shark&logoColor=white" alt="Shark"/>
+  <img src="https://img.shields.io/github/followers/Surafel750?style=for-the-badge&logo=github&color=58A6FF" alt="GitHub Followers"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/COFFEE-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"/>
+  <img src="https://img.shields.io/github/stars/Surafel750?style=for-the-badge&logo=github&color=FFD700" alt="GitHub Stars"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=ultralytics&logoColor=white" alt="YOLO"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/FOLLOW-Surafel750-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/GITHUB-STREAK-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Streak"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <br/><br/>
+  <a href="https://github.com/Surafel750">
+    <img src="https://img.shields.io/badge/Follow-Surafel750-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me"/>
+  </a>
 </div>
 
 ---
