@@ -46,24 +46,6 @@
 
 ---
 
-## 🎖️ Achievements
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Arctic Code Vault"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Pull%20Shark-Contributor-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/YOLO-Developer-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="YOLO"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/GitHub%20Stars-100%2B-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Repositories-20%2B-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Commits-100%2B-2ECC71?style=for-the-badge&logo=github&logoColor=white" alt="Commits"/>
-</div>
-
----
-
 ## 🧑‍💻 About Me
 
 ```json
